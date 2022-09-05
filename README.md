@@ -1,2 +1,2 @@
 # dark-fly
-https://github.com/users/prince943/DarkFly-Tool
+git clone https://github.com/users/prince943/DarkFly-Tool
